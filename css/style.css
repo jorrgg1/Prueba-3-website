@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#contenido {
+    background-color: #021d34;
+}
+
+.fondo-nav {
+    background-color: #012e46;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+}
+h1 , h4{
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+}
+
+.jcarousel ul {
+    width: 10000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.jcarousel li {
+    float: left;
+}
